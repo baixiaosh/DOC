@@ -1,43 +1,42 @@
 react学习相关链接
 -----
 ### npm 包搜索
-	https://www.npmjs.com/
+	[链接](https://www.npmjs.com/)
 
 ### webpack 安装
-	http://zhaoda.net/webpack-handbook/install.html
+	[链接](http://zhaoda.net/webpack-handbook/install.html)
 
 ### webpack 插件应用
-	http://www.cnblogs.com/souvenir/p/5015418.html
+	[链接](http://www.cnblogs.com/souvenir/p/5015418.html)
 
 ### wepack 文档
-	http://webpack.github.io/docs/
+	[链接](https://webpack.js.org/)
 	
 ### babel入门
-	http://www.ruanyifeng.com/blog/2016/01/babel.html
+	[链接](http://www.ruanyifeng.com/blog/2016/01/babel.html)
 
 ### React 入门教程
-	https://hulufei.gitbooks.io/react-tutorial/content/
+	[链接](https://react.docschina.org/)
 	
 ### React-router
-	https://github.com/reactjs/react-router
-	https://github.com/fdecampredon/rx-react
+	[链接](https://github.com/reactjs/react-router)
 
 ### Redux 中文文档
-	http://cn.redux.js.org/
-	https://github.com/react-guide/redux-tutorial-cn
-	https://github.com/gaearon/redux-devtools/tree/master/examples
-	https://github.com/reactjs/redux
-	https://github.com/jas-chen/rx-redux
-	https://github.com/reactjs/reselect
-	https://github.com/reactjs/react-router-redux
+	[http://cn.redux.js.org/](http://cn.redux.js.org/)
+	[https://github.com/react-guide/redux-tutorial-cn](https://github.com/react-guide/redux-tutorial-cn)
+	[https://github.com/gaearon/redux-devtools/tree/master/examples](https://github.com/gaearon/redux-devtools/tree/master/examples)
+	[https://github.com/reactjs/redux](https://github.com/reactjs/redux)
+	[https://github.com/jas-chen/rx-redux](https://github.com/jas-chen/rx-redux)
+	[https://github.com/reactjs/reselect](https://github.com/reactjs/reselect)
+	[https://github.com/reactjs/react-router-redux](https://github.com/reactjs/react-router-redux)
 
 ### webpack-howto
-	https://github.com/petehunt/webpack-howto/blob/master/README-zh.md
+	[https://github.com/petehunt/webpack-howto/blob/master/README-zh.md](https://github.com/petehunt/webpack-howto/blob/master/README-zh.md)
 
 
 ### lodash
-	https://lodash.com/
-	https://github.com/lodash/lodash
+	[https://lodash.com/](https://lodash.com/)
+	[https://github.com/lodash/lodash](https://github.com/lodash/lodash)
 	https://lodash.com/docs
 	https://github.com/lodash/lodash/wiki/FP-Guide
 ### shorti 简化样式
