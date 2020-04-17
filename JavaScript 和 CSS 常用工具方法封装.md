@@ -211,8 +211,6 @@ checkStr (str, type) {
 }
 ```
 
-
-
 ### **2. Date**
 
 ```javascript
@@ -432,8 +430,6 @@ getDayOfYearWeek (time) {
 }
 ```
 
-
-
 ### **3. Array**
 
 ```javascript
@@ -587,8 +583,6 @@ average (arr) {
 }
 ```
 
-
-
 ### **4. String 字符串操作**
 
 ```javascript
@@ -682,8 +676,6 @@ filterTag (str) {
     return str;
 }
 ```
-
-
 
 ### **5. Number**
 
@@ -893,8 +885,6 @@ changeToChinese (Num) {
     }
 ```
 
-
-
 ### **6. Http**
 
 ```javascript
@@ -1013,8 +1003,6 @@ fetch(url, setting) {
 }
 ```
 
-
-
 ### **7. DOM**
 
 ```javascript
@@ -1077,8 +1065,6 @@ getByStyle (obj,name){
     }
 }
 ```
-
-
 
 ### **8. Storage 储存操作**
 
@@ -1182,8 +1168,6 @@ class StorageFn {
   }
 }
 ```
-
-
 
 ### **9. Other 其它操作**
 
@@ -1638,8 +1622,6 @@ menu {
   box-sizing: border-box;
 }
 ```
-
-
 
 ### **2. Phone-reset**
 
